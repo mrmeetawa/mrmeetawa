@@ -18,7 +18,8 @@
    <p align="center">
   <p align="left">
    <a>
-
+    <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
+   - 👨‍🎓 B.Tech Student @ Bk Birla Institute of Engineering & Technology ⚙️
    - 🔭 I’m currently working on My Skills.<br/>
    - 😄 Pronouns: He/Him.<br/>
    - 📫 How to reach me: Email address
